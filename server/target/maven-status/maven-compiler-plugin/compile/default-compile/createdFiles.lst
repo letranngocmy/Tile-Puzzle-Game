@@ -1,0 +1,8 @@
+com/mycompany/server/Transcript.class
+com/mycompany/server/App.class
+module-info.class
+com/mycompany/server/TileConstants.class
+com/mycompany/server/PrimaryController.class
+com/mycompany/server/Move.class
+com/mycompany/server/HandleAClient.class
+com/mycompany/server/FakeMain.class

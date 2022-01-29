@@ -1,0 +1,10 @@
+com/mycompany/client/App.class
+com/mycompany/client/Gateway.class
+com/mycompany/client/TilePane.class
+com/mycompany/client/TranscriptCheck.class
+module-info.class
+com/mycompany/client/FakeMain.class
+com/mycompany/client/TileConstants.class
+com/mycompany/client/Tile.class
+com/mycompany/client/Move.class
+com/mycompany/client/PrimaryController.class
